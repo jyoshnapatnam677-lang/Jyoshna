@@ -1,26 +1,43 @@
 # Hi, I'm Jyoshna Patnam 👋
 
-BCA graduate (Bangalore University, 2026) looking for an entry-level **front-end developer** role.
-I'm currently a Full Stack Development trainee at KodNest.
+**Front-End Developer** | BCA, Bangalore University (2026) | Bangalore, India
 
-## Skills
-- **Front end:** HTML, CSS, JavaScript
-- **Programming:** Python
-- **Tools:** Git, GitHub
+I build clean, responsive websites using **HTML, CSS and JavaScript**, and I am learning **Python Full Stack Development** step by step.
 
-## Projects
-- **[SportsHub Store](https://github.com/jyoshnapatnam677-lang/sportshub-store)**: a multi-page sports equipment store with search, cart, demo login and dashboard (HTML, CSS, JavaScript). [Live site](https://jyoshnapatnam677-lang.github.io/sportshub-store/)
-- **SportKart**: an academic online sports equipment shopping project (HTML, CSS, JavaScript, Python)
+## 🛠️ Skills
 
-## Experience
-- Full Stack Development Trainee, KodNest (Aug 2026 to present)
-- Python Intern, IPCS Global (May 2026)
+- **Front-end:** HTML, CSS, JavaScript, responsive design
+- **Programming:** Python, OOPs concepts
+- **Tools:** VS Code, GitHub
 
-## Certifications
-- Python, ITC Infotech Aspire (2025)
-- AI, Deloitte Forage job simulation (2024)
-- Python Core Concepts and OOP, IPCS Global
-- HTML, CSS and JavaScript, Infosys Springboard
+## 🚀 Projects
 
-## Contact
-[LinkedIn](https://www.linkedin.com/in/patnam-jyoshna-b92a3b294/) · jyoshnapatnam677@gmail.com
+| Project | What it is | Tech |
+
+| **SportsHub Store** | Online store website for sports equipment | HTML, CSS, JavaScript |
+| **Online Sports Equipment System** | My BCA project for buying sports equipment online | Python |
+| **Portfolio Website** | My personal website with my work and contact details | HTML, CSS, JavaScript |
+
+> 📌 Add the live link and repo link for each project here after you upload them.
+
+## 💼 Experience
+
+- **Python Intern**, IPCS Global (May 2026): worked on Python and OOPs concepts
+
+## 🎓 Certifications
+
+- ITC Infotech Aspire: Python (2025)
+- IPCS Global Intern: Python Core Concepts(2026)
+
+## 📚 Currently Learning
+
+- Python Full Stack Development (training at KodNest)
+
+## 📫 Connect with me
+
+- 📧 **Email:** [jyoshnapatnam677@gmail.com](mailto:jyoshnapatnam677@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/patnam-jyoshna-b92a3b294](https://linkedin.com/in/patnam-jyoshna-b92a3b294)
+- 🌐 **Portfolio:** [jyoshnapatnam677-lang.github.io](https://jyoshnapatnam677-lang.github.io/)
+- 💻 **GitHub:** [jyoshnapatnam677-lang](https://github.com/jyoshnapatnam677-lang)
+- 📍 **Location:** Bangalore, India
+⭐ Thanks for visiting my profile!
