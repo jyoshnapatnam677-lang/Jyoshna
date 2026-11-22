@@ -37,7 +37,7 @@ I build clean, responsive websites using **HTML, CSS and JavaScript**, and I am 
 
 - 📧 **Email:** [jyoshnapatnam677@gmail.com](mailto:jyoshnapatnam677@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/patnam-jyoshna-b92a3b294](https://linkedin.com/in/patnam-jyoshna-b92a3b294)
-- 🌐 **Portfolio:** [jyoshnapatnam677-lang.github.io](https://jyoshnapatnam677-lang.github.io/)
+- 🌐 **Portfolio:** [https://jyoshnapatnam677-lang.github.io/my-portfolio/](https://jyoshnapatnam677-lang.github.io/my-portfolio/)
 - 💻 **GitHub:** [jyoshnapatnam677-lang](https://github.com/jyoshnapatnam677-lang)
 - 📍 **Location:** Bangalore, India
 ⭐ Thanks for visiting my profile!
